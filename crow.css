@@ -1,0 +1,55 @@
+/* h1{
+   color: rgb(44, 10, 77);
+   font-size: 100px;
+   text-align: center;
+}
+h2{
+color: brown;
+font-size:  80px;
+text-align: left;
+
+}
+h3{
+   color: crimson;
+   font-size: 60px;
+}
+body{
+background-color: rgb(49, 44, 44);
+
+}
+table{
+color: darkgoldenrod;
+
+
+}
+div{
+   background-color: brown;
+   background-size: contain;
+}
+
+span{
+background-color: blueviolet;
+color: bisque;
+font-size: 65px;
+}
+p{
+   color: brown;
+   font-size: xx-large;
+}
+
+img{
+size: 40px;
+
+image-resolution: center;
+
+}
+option{
+font-size: 30px;
+}
+select{
+font-size: x-large;
+}
+
+
+
+ */
